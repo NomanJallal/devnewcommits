@@ -1,3 +1,0 @@
-{
-	'name': 'formula Pakistan copy'
-}
